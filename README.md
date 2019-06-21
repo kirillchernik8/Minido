@@ -1,5 +1,5 @@
 # MiniDo
-Minimalistic Todo app.
+Minimalistic Todo app
 
 ## Build with React Native
 
